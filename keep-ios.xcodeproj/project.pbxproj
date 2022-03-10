@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BA316C4427D90E3000661253 /* keep_iosApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA316C4327D90E3000661253 /* keep_iosApp.swift */; };
+		BA316C4427D90E3000661253 /* Keep_iosApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA316C4327D90E3000661253 /* Keep_iosApp.swift */; };
 		BA316C4627D90E3000661253 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA316C4527D90E3000661253 /* ContentView.swift */; };
 		BA316C4827D90E3100661253 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA316C4727D90E3100661253 /* Assets.xcassets */; };
 		BA316C4B27D90E3100661253 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA316C4A27D90E3100661253 /* Preview Assets.xcassets */; };
@@ -35,7 +35,7 @@
 
 /* Begin PBXFileReference section */
 		BA316C4027D90E3000661253 /* keep-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "keep-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BA316C4327D90E3000661253 /* keep_iosApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = keep_iosApp.swift; sourceTree = "<group>"; };
+		BA316C4327D90E3000661253 /* Keep_iosApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Keep_iosApp.swift; sourceTree = "<group>"; };
 		BA316C4527D90E3000661253 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BA316C4727D90E3100661253 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA316C4A27D90E3100661253 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -94,7 +94,7 @@
 		BA316C4227D90E3000661253 /* keep-ios */ = {
 			isa = PBXGroup;
 			children = (
-				BA316C4327D90E3000661253 /* keep_iosApp.swift */,
+				BA316C4327D90E3000661253 /* Keep_iosApp.swift */,
 				BA316C4527D90E3000661253 /* ContentView.swift */,
 				BA316C4727D90E3100661253 /* Assets.xcassets */,
 				BA316C4927D90E3100661253 /* Preview Content */,
@@ -258,7 +258,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA316C4627D90E3000661253 /* ContentView.swift in Sources */,
-				BA316C4427D90E3000661253 /* keep_iosApp.swift in Sources */,
+				BA316C4427D90E3000661253 /* Keep_iosApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
